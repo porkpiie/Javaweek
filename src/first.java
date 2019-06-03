@@ -1,4 +1,4 @@
-class First{
+class First {
     public static void main(String xyz[]){
         int a;
         int b;
