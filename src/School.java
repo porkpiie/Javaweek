@@ -1,15 +1,41 @@
-class Results2{
-    int phy, che, mat;
+class Results2 {
+    private int phy, che, mat;
 
-    public void ShowResults2(){
+    public void Physics(int P) {
+        if (P >= 0 && P <= 150) {
+            phy = P;
+        } else {
+            phy = -1;
+            System.out.println("Invalid Physics Marks");
+        }
+    }
+
+    public void Chemistry(int C) {
+        if (C >= 0 && C <= 150) {
+            che = C;
+        } else {
+            che = -1;
+            System.out.println("Invalid Chemistry Marks");
+        }
+    }
+
+    public void Maths(int M) {
+        if (M >= 0 && M <= 150) {
+            mat = M;
+        } else {
+            mat = -1;
+            System.out.println("Invalid Maths Marks");
+        }
+    }
+
+    public void ShowResults2() {
         int total;
-        total= phy + che + mat;
-        System.out.println("Total Score: " + total);
-        if (total > 300){
-            System.out.println("Passed");
+        if (phy == -1 || che == -1 || mat == -1) {
+            System.out.println("No Results");
         }
         else{
-            System.out.println("Failed");
+            total = phy + che + mat;
+            System.out.println("Result is: " + total);
         }
     }
 }
@@ -19,12 +45,12 @@ public class School{
         Results2 Peter, James;
         Peter= new Results2();
         James= new Results2();
-        Peter.mat = 50;
-        Peter.che = 100;
-        Peter.phy = 100;
-        James.mat = 50;
-        James.che = 50;
-        James.phy = 70;
+        Peter.Maths(90);
+        Peter.Chemistry(110);
+        Peter.Physics(72);
+        James.Maths(89);
+        James.Chemistry(119);
+        James.Physics(96);
         Peter.ShowResults2();
         James.ShowResults2();
     }
