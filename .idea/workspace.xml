@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e63a9798-e296-4232-b972-3fb774c0a598" name="Default Changelist" comment="numbers to words 2 &amp; Inheritance intro">
-      <change afterPath="$PROJECT_DIR$/src/Test00.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Testingdraw.java" afterDir="false" />
+    <list default="true" id="e63a9798-e296-4232-b972-3fb774c0a598" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/TestStringProcessing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestSuper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,68 +28,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/NotoWord.java">
+        <entry file="file://$PROJECT_DIR$/src/TestSuper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test00.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            <state relative-caret-position="85">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
-                <element signature="e#45#46#0" expanded="true" />
-                <element signature="e#81#82#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TestDigitsToWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Inheritance.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
-              <folding>
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#291#292#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#34#35#0" expanded="true" />
+                <element signature="e#71#72#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#570#571#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Testingdraw.java">
+        <entry file="file://$PROJECT_DIR$/src/TestWordCount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+            <state relative-caret-position="187">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
-                <element signature="e#110#111#0" expanded="true" />
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#500#501#0" expanded="true" />
-                <element signature="e#527#528#0" expanded="true" />
+                <element signature="e#342#343#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestStringProcessing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -130,6 +99,11 @@
         <option value="$PROJECT_DIR$/src/Inheritance.java" />
         <option value="$PROJECT_DIR$/src/Test00.java" />
         <option value="$PROJECT_DIR$/src/Testingdraw.java" />
+        <option value="$PROJECT_DIR$/src/TestSuper.java" />
+        <option value="$PROJECT_DIR$/src/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/StringProcessing.java" />
+        <option value="$PROJECT_DIR$/src/TestStringProcessing.java" />
+        <option value="$PROJECT_DIR$/src/TestWordCount.java" />
       </list>
     </option>
   </component>
@@ -145,7 +119,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -158,10 +131,17 @@
               <item name="Javaweek" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Javaweek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javaweek" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TestWordCount.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -180,14 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestingDraw">
-    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance" />
-      <module name="Javaweek" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestWordCount">
     <configuration name="Test00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test00" />
       <module name="Javaweek" />
@@ -195,8 +168,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestDigitsToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestDigitsToWords" />
+    <configuration name="TestSuper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestSuper" />
+      <module name="Javaweek" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestWordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestWordCount" />
       <module name="Javaweek" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -218,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestWordCount" />
+        <item itemvalue="Application.TestSuper" />
         <item itemvalue="Application.TestingDraw" />
         <item itemvalue="Application.Testingdraw" />
         <item itemvalue="Application.Test00" />
-        <item itemvalue="Application.Inheritance" />
-        <item itemvalue="Application.TestDigitsToWords" />
       </list>
     </recent_temporary>
   </component>
@@ -286,14 +266,21 @@
       <option name="project" value="LOCAL" />
       <updated>1559730925448</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Abstract, extending, Calling references from children classes">
+      <created>1559747760994</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559747760994</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26639676" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -304,7 +291,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49959514" visible="true" weight="0.3463588" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39964476" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -330,7 +317,8 @@
     <MESSAGE value="static, accounts, calling methods" />
     <MESSAGE value="numbers to words" />
     <MESSAGE value="numbers to words 2 &amp; Inheritance intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="numbers to words 2 &amp; Inheritance intro" />
+    <MESSAGE value="Abstract, extending, Calling references from children classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Abstract, extending, Calling references from children classes" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Timestables.java" />
@@ -422,13 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -467,31 +448,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Maths4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-          <folding>
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TestDigitsToWords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Numberstowords.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Maths4.java" />
     <entry file="file://$PROJECT_DIR$/src/NotoWord.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -501,43 +458,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Test00.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="238">
           <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
           <folding>
-            <element signature="e#45#46#0" expanded="true" />
-            <element signature="e#81#82#0" expanded="true" />
             <element signature="e#128#129#0" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestDigitsToWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="16" selection-start-line="66" selection-start-column="16" selection-end-line="66" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Inheritance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="255">
           <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#105#106#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Testingdraw.java">
+    <entry file="file://$PROJECT_DIR$/src/StringProcessing.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Numberstowords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        <state relative-caret-position="158">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestingDraw.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="e#110#111#0" expanded="true" />
-            <element signature="e#146#147#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#253#254#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestSuper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#34#35#0" expanded="true" />
+            <element signature="e#71#72#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestStringProcessing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestWordCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#342#343#0" expanded="true" />
           </folding>
         </state>
       </provider>
