@@ -1,9 +1,9 @@
 class College {
     private int phy, che, total;
-    float per;
+    float percentage;
     private void calculations(){
         total = phy + che;
-        per = total * 100 / 300;
+        percentage = total * 100 / 300;
     }
 
     public void Physics(int P) {
@@ -31,11 +31,11 @@ class College {
         } else {
             calculations();
             System.out.println("Total Marks: " + total);
-            System.out.println("Percentage:" + per);
+            System.out.println("Percentage:" + percentage);
         }
     }
 }
-public class Test4 {
+public class TestMarksInput {
     public static void main(String[] args) {
         College abc;
         abc = new College();
