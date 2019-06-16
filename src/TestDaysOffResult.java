@@ -38,7 +38,7 @@ class AccountsIT {
     }
 }
 
-public class Test99 {
+public class TestDaysOffResult {
     public static void main(String[] args) throws AbsenteesException {
         AccountsIT one;
         one = new AccountsIT();

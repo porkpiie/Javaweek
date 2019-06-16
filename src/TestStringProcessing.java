@@ -1,11 +1,11 @@
 class StringProcessing {
-    public void wordCount2(String msg) {
+    public void wordCounter(String msg) {
         String word = msg;
-        int i = 0;
-        while(i < msg.length()){
-            if (msg.substring(i,i+1).equals(" ")){
+        int character = 0;
+        while(character < msg.length()){
+            if (msg.substring(character,character+1).equals(" ")){
                 System.out.println(word);
-                i++;
+                character++;
                 word = "";
             }
         }
@@ -15,6 +15,6 @@ class StringProcessing {
 public class TestStringProcessing {
     public static void main(String[] args) {
         StringProcessing s = new StringProcessing();
-            s.wordCount2("Shafeeq is back");
+            s.wordCounter("Shafeeq is back");
     }
 }

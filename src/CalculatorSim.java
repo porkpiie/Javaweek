@@ -103,12 +103,9 @@ class CalcHandler implements ActionListener{
                 clear();
         }
     }
-    private void zero() {
-        if ((!resultField.getText().equals(""))) {
-            resultField.setText(resultField.getText() + "0");
-        }
+    private void zero(){
+        resultField.setText(resultField.getText()+"0");
     }
-    
     private void one(){
         resultField.setText(resultField.getText()+"1");
 
